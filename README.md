@@ -10,7 +10,7 @@ implement from feathers blog and do some update code on it.</p>
 <li>run mongodb. follow this instructions if ur using windows with mongodb community edition installed => https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows/#run-mongodb-community-edition</li>
 <li>on <i>'local'</i> mongodb database create <i>'todos'</i> collection</li>
 <li>clone this repo<pre>git clone https://github.com/idr17/feathers-todos.git</pre></li>
-<li><pre>npm install --save-dev feathers feathers-rest feathers-socketio mongodb feathers-mongodb ejs webpack@latest</pre></li>
+<li>install feathers and some stuff<pre>npm install --save-dev feathers feathers-rest feathers-socketio mongodb feathers-mongodb ejs webpack@latest</pre></li>
 
 <li>run todos app</li>
 <li>with persistent mongodb connection.<pre>node mongo.js</pre></li>
