@@ -9,8 +9,7 @@ implement from feathers blog and do some update code on it.</p>
 <ul>
 <li>run mongodb</li>
 <li>on <i>'local'</i> mongodb database create <i>'todos'</i> collection</li>
-<li>clone this repo<pre></pre></li>
-<li>git clone https://github.com/idr17/feathers-todos.git</li>
+<li>clone this repo<pre>git clone https://github.com/idr17/feathers-todos.git</pre></li>
 <li><pre>npm install --save-dev feathers feathers-rest feathers-socketio mongodb feathers-mongodb ejs webpack@latest</pre></li>
 
 <li>run todos app</li>
